@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+    <staff id="1">
+        <name>Roshan</name>
+        <name>Ranasinghe</name>
+        <email>tripalr1986@gmail.com</email>
+    </staff>
+
+    <staff id="2">
+        <name>Madhu</name>
+        <name>Nawarathne</name>
+        <email>madhunawarathne86@gmail.com</email>
+    </staff>
+
+    <staff id="3">
+        <name>Uthpala</name>
+        <name>Chandraratne</name>
+        <email>uthpala@gmail.com</email>
+    </staff>
+
+    <employee name="david">
+        <name>David</name>
+        <name>Williams</name>
+        <email>david@gmail.com</email>
+    </employee>
+
+</data>

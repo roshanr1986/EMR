@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<data>
+<patient NIC="25000000v">
+    <nic>25000000v</nic>
+    <remarkIfMinor> Testing minor remark </remarkIfMinor>
+    <firstName>Sam</firstName>
+    <lastName>Sanders</lastName>
+    <dob>03/15/1985</dob>
+    <occupation>Investor</occupation>
+    <email>samsanders@gmail.com</email>
+    <address>77, Kingcross avenue, Colombo 7</address>
+    <landline>01124857845</landline>
+    <mobile>0775465875</mobile>
+    <primaryConsultant>er</primaryConsultant>
+    <secondaryConsultant>asas</secondaryConsultant>
+    <confidentialNotes>testing confidential note</confidentialNotes>
+    <status>testing status</status>
+</patient>
+
+    <patient NIC="33000000v">
+        <nic>33000000v</nic>
+        <remarkIfMinor> Testing minor remark </remarkIfMinor>
+        <firstName>Paul</firstName>
+        <lastName>witzard</lastName>
+        <dob>03/15/1985</dob>
+        <occupation>Investor</occupation>
+        <email>paulwitz@gmail.com</email>
+        <address>77, Kingcross avenue, Colombo 7</address>
+        <landline>01124857845</landline>
+        <mobile>0775465875</mobile>
+        <primaryConsultant>er</primaryConsultant>
+        <secondaryConsultant>asas</secondaryConsultant>
+        <confidentialNotes>Highly unstable emotionally</confidentialNotes>
+        <status>Under medication</status>
+    </patient>
+
+</data>
